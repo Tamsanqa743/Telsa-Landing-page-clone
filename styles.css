@@ -47,6 +47,12 @@ nav{
     padding:0px 32px;
 }
 
+.all-icons{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
 .nav-item{
     padding:5px 15px;
     cursor:pointer;
