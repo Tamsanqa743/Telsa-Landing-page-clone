@@ -84,6 +84,11 @@ button{
     cursor:pointer;
 
 }
+/* styling touch delivery anchor */
+
+.title-section a{
+    color: black;
+}
 
 .btn-dark{
     background-color:#191d21;
