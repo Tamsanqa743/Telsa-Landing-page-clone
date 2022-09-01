@@ -26,6 +26,10 @@
     .all-icons{
         display: none;
     }
+    
+    .middle-menu, .right-menu{
+        display:none;
+    }
 
 
 
