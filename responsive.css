@@ -10,7 +10,7 @@
     }
     
     .mob-menu{
-        display: none;
+        display: flex;
     }
     .nav{
         display: flex;
