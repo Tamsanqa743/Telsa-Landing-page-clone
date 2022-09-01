@@ -51,7 +51,9 @@ nav{
     padding:5px 15px;
     cursor:pointer;
 }
-
+.mob-menu{
+display: none
+}
 .nav-item:hover{
     /* background-color:darkgrey; */
     background-color: #d8d9da;
