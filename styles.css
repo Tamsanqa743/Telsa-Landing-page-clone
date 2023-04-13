@@ -115,3 +115,57 @@ main{
 .actions-area{
     margin-bottom:100px;
 }
+
+#gallery-btn{
+    text-decoration: none;
+    color: black;
+}
+
+/* contact us page styles */
+
+.contact-main{
+    text-align: center;
+    height: calc(100vh - 56px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    justify-content:center; 
+}
+
+.contact-f{
+    display: flex;
+    justify-content: center;   
+    justify-content:center;
+}
+
+textarea{
+padding: 10;
+width: 150;
+}
+
+/* style tables in gallery page */
+
+table{
+    color: Black;
+    size: 24;
+}
+.banner-wrap-contact{
+    background-color: #e4e4e2;
+}
+
+.img-table{
+    width: 100%;
+    border: none;
+}
+.gallery{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+table tr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
